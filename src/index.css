@@ -1,0 +1,25 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+html,
+body {
+    background-color: #0f0e17;
+    scroll-behavior: smooth;
+    font-family: 'Lato', sans-serif;
+}
+
+#logo {
+    font-weight: 900;
+    font-style: oblique;
+    letter-spacing: 0.2rem;
+}
+
+
+
+
+:root {
+    primary: #0d1b2a;
+    text: #dad7cd;
+
+}
