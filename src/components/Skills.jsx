@@ -11,49 +11,49 @@ export const Skills = () => {
                     <div className='grid grid-cols-2 md:grid-cols-4 gap-x-8 gap-y-12 md:gap-4 p-8'>
 
                         <div className='flex flex-row gap-8 rounded items-center justify-center w-[150px] md:w-[200px] h-[100px] p-4 bg-white shadow-teal-500 shadow-md hover:-translate-y-2 ease-in duration-200'>
-                            <img className='w-[50px] h-auto' src="./src/assets/skills/html5.png" alt="#" />
+                            <img className='w-[50px] h-auto' src="../assets/skills/html5.png" alt="#" />
 
                             <p className='hidden md:flex font-bold w-[30px] md:w-[50px] h-auto'>HTML</p>
                         </div>
 
                         <div className='flex flex-row gap-8 rounded  items-center justify-center w-[150px] md:w-[200px] h-[100px] p-4 bg-white shadow-teal-400 shadow-md hover:-translate-y-2 ease-in duration-200'>
-                            <img className='w-[50px] h-auto' src="./src/assets/skills/css3.png" alt="#" />
+                            <img className='w-[50px] h-auto' src="../assets/skills/css3.png" alt="#" />
 
                             <p className=' hidden md:flex font-bold w-[50px] h-auto'>CSS</p>
                         </div>
 
                         <div className='flex flex-row gap-8 rounded  items-center justify-center w-[150px] md:w-[200px] h-[100px] p-4 bg-white shadow-teal-400 shadow-md hover:-translate-y-2 ease-in duration-200'>
-                            <img className='w-[50px] h-auto' src="./src/assets/skills/javascript.png" alt="#" />
+                            <img className='w-[50px] h-auto' src="../assets/skills/javascript.png" alt="#" />
 
                             <p className='hidden md:flex font-bold w-[50px] h-auto'>Javascript</p>
                         </div>
 
                         <div className='flex flex-row gap-8 rounded  items-center justify-center w-[150px] md:w-[200px] h-[100px] p-4 bg-white shadow-teal-400 shadow-md hover:-translate-y-2 ease-in duration-200'>
-                            <img className='w-[50px] h-auto' src="./src/assets/skills/react-icon.svg.png" alt="#" />
+                            <img className='w-[50px] h-auto' src="../assets/skills/React-icon.svg.png" alt="#" />
 
                             <p className='hidden md:flex font-bold w-[50px] h-auto'>React</p>
                         </div>
 
                         <div className='flex flex-row mt-3  gap-8 rounded items-center justify-center w-[150px] md:w-[200px] h-[100px] p-4 bg-white shadow-teal-500 shadow-md hover:-translate-y-2 ease-in duration-200'>
-                            <img className='w-[50px] h-auto' src="./src/assets/skills/tailwind.png" alt="#" />
+                            <img className='w-[50px] h-auto' src="../assets/skills/tailwind.png" alt="#" />
 
                             <p className='hidden md:flex font-bold w-[50px] h-auto'>Tailwind</p>
                         </div>
 
                         <div className='flex flex-row mt-3  gap-8 rounded  items-center justify-center w-[150px] md:w-[200px] h-[100px] p-4 bg-white shadow-teal-400 shadow-md hover:-translate-y-2 ease-in duration-200'>
-                            <img className='w-[50px] h-auto' src="./src/assets/skills/firebase.png" alt="#" />
+                            <img className='w-[50px] h-auto' src="../assets/skills/firebase.png" alt="#" />
 
                             <p className='hidden md:flex font-bold w-[50px] h-auto'>Firebase</p>
                         </div>
 
                         <div className='flex flex-row mt-3  gap-8 rounded  items-center justify-center w-[150px] md:w-[200px] h-[100px] p-4 bg-white shadow-teal-400 shadow-md hover:-translate-y-2 ease-in duration-200'>
-                            <img className='w-[50px] h-auto' src="./src/assets/skills/redux.jpg" alt="#" />
+                            <img className='w-[50px] h-auto' src="../assets/skills/redux.jpg" alt="#" />
 
                             <p className='hidden md:flex font-bold w-[50px] h-auto'>Redux</p>
                         </div>
 
                         <div className='flex flex-row gap-8 mt-3  rounded  items-center justify-center w-[150px] md:w-[200px] h-[100px] p-4 bg-white shadow-teal-400 shadow-md hover:-translate-y-2 ease-in duration-200'>
-                            <img className='w-[50px] h-auto' src="./src/assets/skills/github.png" alt="#" />
+                            <img className='w-[50px] h-auto' src="../assets/skills/github.png" alt="#" />
 
                             <p className='hidden md:flex font-bold w-[50px] h-auto'>Github</p>
                         </div>

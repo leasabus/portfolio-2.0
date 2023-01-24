@@ -12,7 +12,7 @@ export const MyProyects = () => {
 
                     <div className='flex flex-col items-center justify-center md:grid md:grid-cols-2 gap-12 '>
                         <div className='w-[350px] md:w-[400px] h-[460px] text-white bg-slate-900 rounded shadow-teal-400 shadow-md flex flex-col items-center justify-center '>
-                            <img className='w-[400px] h-[200px] rounded' src="./src/assets/proyects/aerolab.jpg" alt="#" />
+                            <img className='w-[400px] h-[200px] rounded' src="../assets/proyects/aerolab.jpg" alt="#" />
                             <h2 className='text-xl font-bold mt-2 p-2'>Aerolab challenge</h2>
                             <button className=' w-10 h-[5px] p-1 cursor-auto bg-gradient-to-r from-teal-400  via-teal-500 to-teal-700   flex rounded'></button>
                             <div className='flex items-center text-center justify-center mt-2 px-4  '>
@@ -36,7 +36,7 @@ export const MyProyects = () => {
                         </div>
 
                         <div className='w-[350px] md:w-[400px] h-[460px] text-white bg-slate-900 rounded shadow-teal-400 shadow-md flex flex-col items-center text-center justify-center '>
-                            <img className='w-[400px] h-[200px] rounded' src="./src/assets/proyects/cryptos.jpg" alt="#" />
+                            <img className='w-[400px] h-[200px] rounded' src="../assets/proyects/cryptos.jpg" alt="#" />
                             <h2 className='text-xl font-bold mt-2 p-2'>Crypto App</h2>
                             <button className=' w-10 h-[5px] p-1 cursor-auto bg-gradient-to-r from-teal-400  via-teal-500 to-teal-700   flex rounded'></button>
                             <div className='flex items-center text-center justify-center px-4 mt-2 '>
@@ -61,7 +61,7 @@ export const MyProyects = () => {
                         </div>
 
                         <div className='w-[350px] md:w-[400px] h-[460px] text-white bg-slate-900 rounded shadow-teal-400 shadow-md flex flex-col items-center text-center justify-center '>
-                            <img className='w-[400px] h-[200px] rounded' src="./src/assets/proyects/netflix.jpg" alt="#" />
+                            <img className='w-[400px] h-[200px] rounded' src="../assets/proyects/netflix.jpg" alt="#" />
                             <h2 className='text-xl font-bold mt-2 p-2'>Netflix Clone</h2>
                             <button className=' w-10 h-[5px] p-1 cursor-auto bg-gradient-to-r from-teal-400  via-teal-500 to-teal-700   flex rounded'></button>
                             <div className='flex items-center text-center justify-center mt-2 px-4  '>
@@ -87,7 +87,7 @@ export const MyProyects = () => {
                         </div>
 
                         <div className='w-[350px] md:w-[400px] h-[460px] text-white bg-slate-900 rounded shadow-teal-400 shadow-md flex flex-col items-center text-center justify-center '>
-                            <img className='w-[400px] h-[200px] rounded ' src="./src/assets/proyects/giftexpert.png" alt="#" />
+                            <img className='w-[400px] h-[200px] rounded ' src="../assets/proyects/giftexpert.png" alt="#" />
                             <h2 className='text-xl font-bold mt-2 p-2'>Gif App</h2>
                             <button className=' w-10 h-[5px] p-1 cursor-auto bg-gradient-to-r from-teal-400  via-teal-500 to-teal-700   flex rounded'></button>
                             <div className='flex items-center text-center justify-center px-4 mt-2  '>
@@ -112,7 +112,7 @@ export const MyProyects = () => {
                         </div>
 
                         <div className='w-[350px] md:w-[400px] h-[460px] text-white bg-slate-900 rounded shadow-teal-400 shadow-md flex flex-col items-center text-center justify-center '>
-                            <img className='w-[400px] h-[200px] rounded' src="./src/assets/proyects/weatherapp.jpg" alt="#" />
+                            <img className='w-[400px] h-[200px] rounded' src="../assets/proyects/weatherapp.jpg" alt="#" />
                             <h2 className='text-xl font-bold mt-2 p-2'>Weather App</h2>
                             <button className=' w-10 h-[5px] p-1 cursor-auto bg-gradient-to-r from-teal-400  via-teal-500 to-teal-700   flex rounded'></button>
                             <div className='flex items-center text-center justify-center mt-2 px-4  '>
@@ -139,7 +139,7 @@ export const MyProyects = () => {
 
 
                         <div className='w-[350px] md:w-[400px] h-[460px] text-white bg-slate-900 rounded shadow-teal-400 shadow-md flex flex-col items-center text-center justify-center '>
-                            <img className='w-[400px] h-[200px] rounded' src="./src/assets/proyects/scaloneta.png" alt="#" />
+                            <img className='w-[400px] h-[200px] rounded' src="../assets/proyects/scaloneta.png" alt="#" />
                             <h2 className='text-xl font-bold mt-2 p-2'>Argentina WC team</h2>
                             <button className=' w-10 h-[5px] p-1 cursor-auto bg-gradient-to-r from-teal-400  via-teal-500 to-teal-700   flex rounded'></button>
                             <div className='flex items-center text-center justify-center mt-2 px-4  '>
@@ -164,7 +164,7 @@ export const MyProyects = () => {
                         </div>
 
                         <div className='w-[350px] md:w-[400px] h-[460px] text-white bg-slate-900 rounded shadow-teal-400 shadow-md flex flex-col items-center text-center justify-center '>
-                            <img className='w-[400px] h-[200px] rounded' src="./src/assets/proyects/e-shop-app.jpg" alt="#" />
+                            <img className='w-[400px] h-[200px] rounded' src="../assets/proyects/e-shop-app.jpg" alt="#" />
                             <h2 className='text-xl font-bold mt-2 p-2'>E-Shop</h2>
                             <button className=' w-10 h-[5px] p-1 cursor-auto bg-gradient-to-r from-teal-400  via-teal-500 to-teal-700   flex rounded'></button>
                             <div className='flex items-center text-center justify-center mt-2 px-4  '>

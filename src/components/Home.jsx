@@ -18,10 +18,10 @@ export const Home = () => {
                             loop
                         /></h4>
                         <h4 className='text-2xl text-[#94a1b2]'> And another technologies.</h4>
-                        <a href="./src/assets/CV-leandro-sabus-ing.pdf" target="_blank"><button className=' text-white bg-[#8900f2] font-bold p-2 rounded-xl mt-2 hover:bg-teal-400 hover:text-black'>Download CV</button></a>
+                        <a href="../assets/CV-leandro-sabus-ing.pdf" target="_blank"><button className=' text-white bg-[#8900f2] font-bold p-2 rounded-xl mt-2 hover:bg-teal-400 hover:text-black'>Download CV</button></a>
                     </div>
                     <div className='w-[24rem] md:w-[28rem] mt-8' >
-                        <img src="src/assets/home.png" alt="" />
+                        <img src="../assets/home.png" alt="" />
                     </div>
 
                 </div>
