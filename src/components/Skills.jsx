@@ -65,7 +65,7 @@ export const Skills = () => {
                         <div className='w-[350px] md:w-[400px] h-[250px] bg-slate-900 rounded-xl p-4'>
                             <h4 className='font-bold text-xl text-[#8900f2] '>Freelance (2021-2023)</h4>
                             <p className='mt-2'>I built proyects and taken courses to gain experience and
-                                improve mi skills using the best technologies on front-end development.
+                                improve my skills using the best technologies on the front-end development.
                                 Focusing in best practices and modern design. I can highlight<span className='text-[#94a1b2] font-bold'> HTML, CSS , Javascript, React, Tailwind </span> among the most used by me.
                             </p>
                         </div>
@@ -73,8 +73,7 @@ export const Skills = () => {
                         <div className='w-[350px] md:w-[400px] h-[250px] bg-slate-900 rounded-xl p-4'>
                             <h4 className='font-bold text-xl text-[#8900f2]'>ID for Ideas (2023-Actuality)</h4>
                             <p className='mt-2'>I'm working in a team as a front-end developer. We work in proyects to grow experience
-                                and skills for teamwork. I using technologies like a <span className=' font-bold text-[#94a1b2]'> React, Tailwind, Vite, Agile methodologies, Figma.</span>
-
+                                and soft skills for teamwork. I using technologies like a <span className=' font-bold text-[#94a1b2]'> React, Tailwind, Vite, Agile methodologies, Figma.</span>
 
                             </p>
                         </div>
