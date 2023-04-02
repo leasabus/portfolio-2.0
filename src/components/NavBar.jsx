@@ -17,7 +17,7 @@ export const NavBar = () => {
     return (
         <>
 
-            <div className='flex flex-row justify-between items-center w-full h-[100px] bg-[#0f0e17] rounded text-[#dad7cd] mx-auto p-2 md:p-12 '  >
+            <div className='flex flex-row justify-between items-center w-full h-[100px] bg-[#0f0e17] rounded text-[#dad7cd] mx-auto p-2 md:p-12  '  >
                 <div className='text-xl semibold flex flex-row gap-2 items-center justify-center p-2'>
                     <IoLogoReact size={34} />
                     <span className='text-white  text-xl font-semibold  space-x-1' >Leandro Sabus</span >

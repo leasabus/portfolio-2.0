@@ -9,27 +9,26 @@ export const MyProyects = () => {
 
                     <h1 className='text-white text-3xl font-bold '>My Proyects</h1>
 
-
                     <div className='flex flex-col items-center justify-center md:grid md:grid-cols-2 gap-12 '>
-                        <div className='w-[350px] md:w-[400px] h-[460px] text-white bg-slate-900 rounded shadow-teal-400 shadow-md flex flex-col items-center justify-center '>
-                            <img className='w-[400px] h-[200px] rounded' src="../assets/proyects/aerolab.jpg" alt="#" />
-                            <h2 className='text-xl font-bold mt-2 p-2'>Aerolab challenge</h2>
+                    <div className='w-[400px] md:w-[400px] h-[460px] text-white bg-slate-900 rounded shadow-teal-400 shadow-md flex flex-col items-center justify-center '>
+                            <img className='w-[400px] h-[200px] rounded' src="../assets/proyects/meli.jpg" alt="#" />
+                            <h2 className='text-xl font-bold mt-2 p-2'>Mercado Libre Clone</h2>
                             <button className=' w-10 h-[5px] p-1 cursor-auto bg-gradient-to-r from-teal-400  via-teal-500 to-teal-700   flex rounded'></button>
                             <div className='flex items-center text-center justify-center mt-2 px-4  '>
-                                <p>Using React, Typescript and ChakraUi. Fetching the API of the products and
-                                    order, filter and show the results.
+                                <p>Using React, Javascript and TailwindCSS. I built the UI of the web page and aplicate some functionalities
+                                    like a slider of the products .
                                 </p>
                             </div>
                             <p className='text-lg font-bold'>Stack</p>
                             <div className='flex flex-row gap-8 mt-2 font-bold text-[#8900f2] '>
                                 <p>React</p>
-                                <p>Typescript</p>
-                                <p>ChakraUI</p>
+                                <p>Javascript</p>
+                                <p>TailwindCSS</p>
                                 <p>Vite</p>
                             </div>
 
                             <div className='flex flex-row m-4 gap-4 '>
-                                <a href="https://aerolab-challenge-ts.netlify.app/" target="_blank"> <button className='bg-[#8900f2] p-1 w-24 rounded-xl font-bold hover:bg-teal-400 hover:text-black'>Demo</button> </a>
+                                <a href="https://meli-clone.netlify.app/" target="_blank"> <button className='bg-[#8900f2] p-1 w-24 rounded-xl font-bold hover:bg-teal-400 hover:text-black'>Demo</button> </a>
                                 <a href="https://github.com/leasabus/aerolab-challenge" target="_blank"><button className='bg-[#8900f2] p-1 w-24 rounded-xl font-bold hover:bg-teal-400 hover:text-black'>Repository</button></a>
                             </div>
 
@@ -59,6 +58,34 @@ export const MyProyects = () => {
                             </div>
 
                         </div>
+
+
+
+                        <div className='w-[400px] md:w-[400px] h-[460px] text-white bg-slate-900 rounded shadow-teal-400 shadow-md flex flex-col items-center justify-center '>
+                            <img className='w-[400px] h-[200px] rounded' src="../assets/proyects/aerolab.jpg" alt="#" />
+                            <h2 className='text-xl font-bold mt-2 p-2'>Aerolab challenge</h2>
+                            <button className=' w-10 h-[5px] p-1 cursor-auto bg-gradient-to-r from-teal-400  via-teal-500 to-teal-700   flex rounded'></button>
+                            <div className='flex items-center text-center justify-center mt-2 px-4  '>
+                                <p>Using React, Typescript and ChakraUi. Fetching the API of the products and
+                                    order, filter and show the results.
+                                </p>
+                            </div>
+                            <p className='text-lg font-bold'>Stack</p>
+                            <div className='flex flex-row gap-8 mt-2 font-bold text-[#8900f2] '>
+                                <p>React</p>
+                                <p>Typescript</p>
+                                <p>ChakraUI</p>
+                                <p>Vite</p>
+                            </div>
+
+                            <div className='flex flex-row m-4 gap-4 '>
+                                <a href="https://aerolab-challenge-ts.netlify.app/" target="_blank"> <button className='bg-[#8900f2] p-1 w-24 rounded-xl font-bold hover:bg-teal-400 hover:text-black'>Demo</button> </a>
+                                <a href="https://github.com/leasabus/aerolab-challenge" target="_blank"><button className='bg-[#8900f2] p-1 w-24 rounded-xl font-bold hover:bg-teal-400 hover:text-black'>Repository</button></a>
+                            </div>
+
+                        </div>
+
+                        
 
                         <div className='w-[350px] md:w-[400px] h-[460px] text-white bg-slate-900 rounded shadow-teal-400 shadow-md flex flex-col items-center text-center justify-center '>
                             <img className='w-[400px] h-[200px] rounded' src="../assets/proyects/netflix.jpg" alt="#" />
@@ -163,32 +190,6 @@ export const MyProyects = () => {
 
                         </div>
 
-
-
-                        <div className='w-[350px] md:w-[400px] h-[460px] text-white bg-slate-900 rounded shadow-teal-400 shadow-md flex flex-col items-center text-center justify-center '>
-                            <img className='w-[400px] h-[200px] rounded' src="../assets/proyects/scaloneta.png" alt="#" />
-                            <h2 className='text-xl font-bold mt-2 p-2'>Argentina WC team</h2>
-                            <button className=' w-10 h-[5px] p-1 cursor-auto bg-gradient-to-r from-teal-400  via-teal-500 to-teal-700   flex rounded'></button>
-                            <div className='flex items-center text-center justify-center mt-2 px-4  '>
-                                <p>Build an array of objects with the data of the players of the national team. Grouped by position and a search
-                                    player implemented.
-                                </p>
-
-
-                            </div>
-                            <p className='text-xl font-bold'>Stack</p>
-                            <div className='flex flex-row gap-8 mt-2 font-bold text-[#8900f2] '>
-                                <p>React</p>
-                                <p>CSS</p>
-                                <p>Vite</p>
-                            </div>
-
-                            <div className='flex flex-row m-4 gap-4 '>
-                                <a href="https://leasabus.github.io/Scaloneta-app/" target="_blank"><button className='bg-[#8900f2] p-1 w-24 rounded-xl font-bold hover:bg-teal-400 hover:text-black'>Demo</button></a>
-                                <a href="https://github.com/leasabus/Scaloneta-app" target="_blank"><button className='bg-[#8900f2] p-1 w-24 rounded-xl font-bold hover:bg-teal-400 hover:text-black'>Repository</button></a>
-                            </div>
-
-                        </div>
 
                         <div className='w-[350px] md:w-[400px] h-[460px] text-white bg-slate-900 rounded shadow-teal-400 shadow-md flex flex-col items-center text-center justify-center '>
                             <img className='w-[400px] h-[200px] rounded' src="../assets/proyects/e-shop-app.jpg" alt="#" />
